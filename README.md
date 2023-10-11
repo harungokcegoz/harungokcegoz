@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Harun. I am currently a Software Engineering student at Saxion UAS in the Netherlands.</div>  
+### <div align="center">I am Harun. I am currently a Software Engineering student at Saxion UAS in the Netherlands and interning in Web Development at TomTom.</div>  
   
 
 - 🔭 Proficient in: JavaScript, Java  
