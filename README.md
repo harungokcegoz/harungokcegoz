@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Harun. I am currently a Software Engineering student at Saxion UAS in the Netherlands and interning in Web Development at TomTom.</div>  
+### <div align="center">I am Harun. I am currently a Software Engineering student at Saxion UAS in the Netherlands and Web Developer at TomTom.</div>  
   
 
 - 🔭 Proficient in: JavaScript, Java  
@@ -12,16 +12,16 @@
 - 🌱Currently improving: Swift  
   
 
-- ❓ Worked with: Svelte, Vue, Vuetify, React, UIKit, Node.js, SpringBoot, Terraform, AWS  
+- ❓ Worked with: SvelteKit, Vue, Vuetify, NextJS, Node.js, SpringBoot, Terraform, AWS  
   
 
-- ⚡ Familiar with: Git, Gitlab, Github, Sprints, Scrum  
+- ⚡ Familiar with: Git, Gitlab, Github, Agile, Scrum  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Worked With  
 <table><tr><td valign="top" width="33%">
 
 
@@ -30,7 +30,7 @@
 <div align="center">  
 <a href="https://svelte.dev" target="_blank"><img style="margin: 10px" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt="Svelte" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png)" alt="Nextjs" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
