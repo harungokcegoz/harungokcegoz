@@ -31,7 +31,6 @@
 <a href="https://svelte.dev" target="_blank"><img style="margin: 10px" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt="Svelte" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" alt="Nextjs" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" /></a>  
 <a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
