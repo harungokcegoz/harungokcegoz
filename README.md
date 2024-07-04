@@ -6,18 +6,17 @@
 ### <div align="center">I am Harun. I am currently a Software Engineering student at Saxion UAS in the Netherlands and Web Developer at TomTom.</div>  
   
 
-- 🔭 Proficient in: JavaScript, Java  
+- 🔭 Proficient in: TypeScript, JavaScript, Java
   
 
 - 🌱Currently improving: Swift  
   
 
-- ❓ Worked with: TypeScript, SvelteKit, Vue, Vuetify, NextJS, Node.js, SpringBoot, Terraform, AWS  
+- ❓ Worked with: Sveltekit, Next.js/React, SwiftUI, Node.js, SpringBoot, Terraform, AWS, FastAPI, PostgreSQL
   
 
-- ⚡ Familiar with: Git, Gitlab, Github, Agile, Scrum  
+- ⚡ Familiar with: Git, Gitlab, Github
   
-
 <br/>  
 
 
