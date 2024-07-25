@@ -83,7 +83,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harungokcegoz&hide_border=true&layout=compact&hide=html,css" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harungokcegoz&hide_border=true&layout=compact&hide=html,CSS,svelte" align="center" /></div>  
 <img src="https://github-readme-stats.vercel.app/api?username=harungokcegoz&show_icons=true&count_private=true&hide_border=true&hide=stars,issues" align="left" />  
 
 <br/>  
