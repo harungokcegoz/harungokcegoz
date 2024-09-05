@@ -9,7 +9,7 @@
 - 🔭 Proficient in: TypeScript, JavaScript, Java
   
 
-- 🌱Currently improving: Swift  
+- 🌱Currently improving: React Native
   
 
 - ❓ Worked with: Sveltekit, Next.js/React, SwiftUI, Node.js, SpringBoot, Terraform, AWS, FastAPI, PostgreSQL
