@@ -9,13 +9,14 @@
 - 🔭 Proficient in: TypeScript, JavaScript, Java
   
 
-- 🌱Currently improving: React Native
+- 🌱 Currently improving: Full Stack Mobile Development
   
 
-- ❓ Worked with: Sveltekit, Next.js/React, SwiftUI, Node.js, SpringBoot, Terraform, AWS, FastAPI, PostgreSQL
+- ❓ Worked with: Expo/React Native, Sveltekit, Next.js/React, SwiftUI, Express, FastAPI, RabbitMQ, PostgreSQL,
+Terraform, AWS, Firebase
   
 
-- ⚡ Familiar with: Git, Gitlab, Github
+- ⚡ Familiar with: Database Optimization, Figma, App Store Optimization(ASO), UI/UX Design
   
 <br/>  
 
@@ -28,10 +29,8 @@
 ### Frontend  
 <div align="center">  
 <a href="https://svelte.dev" target="_blank"><img style="margin: 10px" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt="Svelte" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" alt="Nextjs" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" /></a>  
-<a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
