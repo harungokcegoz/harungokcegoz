@@ -28,6 +28,7 @@ Terraform, AWS, Firebase
 
 ### Frontend  
 <div align="center">  
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F159812%2Fsdk-react-native&psig=AOvVaw2zFhD37aTO8HBsyAJM7CdL&ust=1738744794601000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCMh6TPqYsDFQAAAAAdAAAAABAJ" alt="React Native" height="50" /></a>
 <a href="https://svelte.dev" target="_blank"><img style="margin: 10px" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt="Svelte" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" alt="Nextjs" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" /></a>  
@@ -42,6 +43,7 @@ Terraform, AWS, Firebase
 
 ### Backend  
 <div align="center">  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F44442%2Fgolang&psig=AOvVaw2kzuPgRWRT4_JUxfhSa9-N&ust=1738744926275000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCZmuDPqYsDFQAAAAAdAAAAABAJ" alt="Golang" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
