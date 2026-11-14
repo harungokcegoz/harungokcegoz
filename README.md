@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishavanand/github-profilinator/master/src/images/greetings.gif" alt="Greetings" width="600" />
-</p>
-
 ## Connect with me
 
 <p align="center">
